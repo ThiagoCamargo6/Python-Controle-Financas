@@ -55,8 +55,11 @@ Data;Descrição;Valor;Categoria
 2025-05-03;Mercado;-150.00;Alimentação
 ...
 📸 Exemplo de Tela
-Interface com abas mensais + dashboard geral com gráficos de gastos por categoria e mês.
+![Image](https://github.com/user-attachments/assets/2d2976ae-7d2c-4117-8314-20a938dc9681)
 
+![Image](https://github.com/user-attachments/assets/17019fd7-8edc-4832-bdfb-91e3c576d514)
+
+![Image](https://github.com/user-attachments/assets/86dcfa7b-b1e8-43bb-97cf-849a2baccb3d)
 📄 Licença
 Este projeto é livre para uso pessoal.
 
