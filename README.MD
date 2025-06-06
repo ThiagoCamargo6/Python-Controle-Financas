@@ -65,5 +65,3 @@ Copiar
 Editar
 
 ---
-
-Se quiser que eu gere e envie esse `README.md` como arquivo real, posso fazer isso em segundos. Deseja que eu env
